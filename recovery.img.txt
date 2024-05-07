@@ -1,0 +1,36 @@
+ Display informations for "working\recovery.img".....
+
+ Carliv Image Tools by carliv.eu
+
+ [!] This image has a MTK header
+
+
+
+  Magic            : ANDROID!
+  Cmdline          : bootopt=64S3,32N2,64N2
+  Base             : 0x40078000
+  Page size        : 2048  	  (0x00000800)
+  Board name       : '1521110255'
+
+  Board OS version : 7.0.0
+  OS Patch-level   : 2018-03
+  Id               : f06503cefc5436dee389ce712f9bb322663ff2f3
+
+  Tags address     : 0x4e000000
+  Tags offset      : 0x0df88000
+
+  Kernel size      : 7143006  	  (0x006cfe5e)
+  Kernel address   : 0x40080000
+  Kernel offset    : 0x00008000
+
+  Ramdisk size     : 3652658  	  (0x0037bc32)
+  Ramdisk address  : 0x44000000
+  Ramdisk offset   : 0x03f88000
+
+  Ramdisk compress.: gzip
+  Second address   : 0x40f00000
+  Second size      : 0  	  (0x00000000)
+  Second offset    : 0x00e88000
+
+  Header version   : 0
+
